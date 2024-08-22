@@ -8,10 +8,6 @@ export default function Footer() {
             dearaujofelipe
           </a>
         </p>
-        <p>
-          <span className="u-bold u-italic">Not allowed</span> to use as your
-          own teach ing material
-        </p>
       </small>
     </footer>
   );
